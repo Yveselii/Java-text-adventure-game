@@ -8,7 +8,7 @@ public class Main {
         while (playing) {
             boolean hasKey = false; // inventory resets each game
 
-            System.out.println("\nWelcome to the Text Adventure Game!");
+            System.out.println("\nWelcome to Elijah's Text Adventure Game!");
             System.out.println("You wake up in a dark room.");
             System.out.println("Do you go LEFT or RIGHT?");
 
