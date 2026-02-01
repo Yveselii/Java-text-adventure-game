@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Welcome to the Adventure Game!");
+        System.out.println("Welcome to Elijah's Adventure Game!");
         System.out.println("You wake up in a dark room. Do you go LEFT or RIGHT?");
 
         String choice = scanner.nextLine().toLowerCase();
